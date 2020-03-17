@@ -1,4 +1,4 @@
-# Google's Bert model 
+# Google's BERT model 
 <br>
 
 ## Based on Hugginface BertForSequenceClassification with multi-label implementation
